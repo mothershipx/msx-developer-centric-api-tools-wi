@@ -1,0 +1,36 @@
+{
+  "id": "1267fc51-f709-42c4-8278-61b7bb5fd2f8",
+  "name": "Developer-Centric API Tools with Git & Secret Management",
+  "slug": "developer-centric-api-tools-wi",
+  "category": "devtools",
+  "score": 92,
+  "description": "Developers are increasingly frustrated with proprietary and costly API development platforms that lack deep integration with version control systems (like Git) for managing API collections and environments, and comprehensive secret management across local and cloud environments.",
+  "pain_points": [
+    "Frustration with proprietary & costly API development platforms",
+    "Lack of deep Git integration for API collections and environments",
+    "Inadequate secret management across local & cloud environments",
+    "Forced migrations due to changes in commercial tool policies",
+    "Manual workflows for versioning API configurations"
+  ],
+  "market_size": "$5.5B",
+  "tech_stack": [
+    "Next.js (React)",
+    "PostgreSQL",
+    "AWS ECS/Lambda",
+    "Docker/Kubernetes (for self-hosting option)",
+    "Git Provider APIs (GitHub, GitLab, Bitbucket)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "980 upvotes",
+      "source": "reddit",
+      "mentions": 0
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-developer-centric-api-tools-wi/",
+  "repo_url": "https://github.com/mothershipx/msx-developer-centric-api-tools-wi",
+  "created_at": "2026-04-02T07:09:19.627Z",
+  "pipeline_version": "1.0.0"
+}
