@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Developer-Centric API Tools with Git & Secret Management
+slug: developer-centric-api-tools-wi
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: developer-centric-api-tools-wi.msx.dev
